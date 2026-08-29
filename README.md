@@ -4,6 +4,7 @@ CardioSense is a Machine Learning project that predicts the likelihood of heart 
 
 The project also includes a Streamlit web application where users can enter patient information and get a prediction.
 
+
 ## Project Overview
 
 The model uses different health related parameters such as age, sex, chest pain type, blood pressure, cholesterol, maximum heart rate and other clinical features to predict heart disease risk.
